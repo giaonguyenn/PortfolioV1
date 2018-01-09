@@ -75,6 +75,14 @@ section h3.section-subheading {
     border-color: #63edcb
 }
 
+.btn-grey {
+    background-color: grey;
+    border-color: grey;
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
